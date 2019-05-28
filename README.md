@@ -1,2 +1,2 @@
 # website-css
-This program is a HTML_CSS program written for a website.
+this program is written by me for practicing. this is the homepage of a website.
